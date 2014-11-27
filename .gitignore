@@ -1,0 +1,11 @@
+.idea
+*.pyc
+*.iml
+output.log*
+error.log*
+system.conf
+secretary.conf
+download
+cover
+.coverage
+_build
